@@ -1,0 +1,1 @@
+{"attachments":[],"errors":[{"message":"Logout failed: Error: locator.click: Target page, context or browser has been closed","trace":"Error: locator.click: Target page, context or browser has been closed\n    at D:\\Playwright\\tests\\hooks.spec.js:12:65","status":"broken","timestamp":1792774304771}]}
